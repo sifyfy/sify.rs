@@ -1,0 +1,6 @@
+[package]
+name = "sify"
+version = "0.1.0"
+authors = ["siphilia <siphilia.rn@gmail.com>"]
+
+[dependencies]
